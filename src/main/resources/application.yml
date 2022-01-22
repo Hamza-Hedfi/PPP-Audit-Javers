@@ -1,0 +1,13 @@
+javers:
+  mongodb:
+    host: localhost
+    port: 27017
+    database: javers-audit
+#    authentication-database: admin
+#    username: javers
+#    password: password
+
+spring:
+  h2:
+    console:
+      enabled: true
